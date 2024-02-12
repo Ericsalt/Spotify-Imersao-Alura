@@ -1,38 +1,41 @@
-<h1 align="center"> Spotify-Imersao-Alura </h1>
+# Projeto Clone do Spotify
 
+Este é um projeto desenvolvido durante a imersão front-end realizada pela Alura, onde criamos um clone da interface do Spotify utilizando HTML, CSS e JavaScript.
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+## Descrição
 
-  <a href="#memo-licença">Licença</a>
-</p>
+Neste projeto, replicamos a interface do usuário do Spotify, incluindo elementos como a barra de navegação, seções de playlists, Utilizamos HTML para estruturar o conteúdo, CSS para estilizar a página e JavaScript para adicionar interatividade.
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
+## Tecnologias Utilizadas
 
-<br>
-
-## 🚀 Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- HTML e CSS
+- HTML5
+- CSS3
 - JavaScript
-- Git e Github
-- React
-- Figma
 
-## 💻 Projeto
 
-  Um site Clone do Spotify desenvolvido durante um imersivo curso de front-end realizado pela Alura.
+## Instruções de Uso
+
+1. Faça o clone deste repositório.
+2. Abra o arquivo `index.html` em seu navegador web preferido.
+3. Explore o site clone do Spotify para visualizar as diferentes seções e funcionalidades disponíveis.
+
+## Acesse o projeto 
 
 - [Acesse o projeto finalizado, online](https://ericsalt.github.io/Spotify-Imersao-Alura/)
+  
+## Contribuindo
 
-## :memo: Licença
+Contribuições são bem-vindas! Se você encontrar problemas ou desejar melhorar este projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-Esse projeto está sob a licença MIT.
+## Contato
+
+Se tiver alguma dúvida ou sugestão sobre este projeto, entre em contato:
+
+[Eric Salgado Pereira](mailto:Salgadoeric7t@gmail.com)
+
+## Licença
+
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ---
 
